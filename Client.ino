@@ -18,7 +18,7 @@ void setup()
 	clear();
 
 	while (Serial.available())
-	Serial.read();
+		Serial.read();
 
 	Serial.write("1"); // Tell server that we are ready to receive
 }
@@ -58,6 +58,7 @@ void loop()
 
 	myGLCD.update();
 	pos = 0;
+	Serial.write("2"); // Tell server that we are ready for next frame
 }
 
 void serialEvent()
