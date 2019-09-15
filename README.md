@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-[YouTube video](https://www.youtube.com/edit?video_id=v6HidvezKBI).
+[YouTube video](https://www.youtube.com/watch?v=v6HidvezKBI).
 
 ## Build info
 
